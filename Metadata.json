@@ -1,0 +1,20 @@
+{
+    "Author": "Neil Bird [Msft]",
+    "ContentSize": 18545,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/automate-installation-of-azure-resource-manager-(arm)-virtual-machine-extensions/master/azure-install-vm-extension.ps1",
+    "DownloadCount": 1081,
+    "Id": "Automate-Installation-of-4f3b21f5",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 295,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-7-31T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Script to automate the installation of VM Extensions on Azure VMs. The \"Extension Name\" (Type) and \"Publisher Name\" are passed are parameters, along with optional \"SettingString\" JSON that can be used to configure Extension properties.",
+    "Title": "Automate Installation of Azure Resource Manager (ARM) Virtual Machine Extensions",
+    "UpdatedDate": "2017-8-2T00:00:00",
+    "Url": "https://github.com/azureautomation/automate-installation-of-azure-resource-manager-(arm)-virtual-machine-extensions",
+    "UserTags": "JSON, Microsoft Azure, VM Extension"
+}
